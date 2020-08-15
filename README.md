@@ -33,6 +33,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ```Clone the application from the repo```
 Run Command: ```composer install```
+Rename the env.example file to .env
 Set configure database in .env
 Run Command: ```php artisan migrate```
 Run Command: ```npm install```
